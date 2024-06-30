@@ -11,7 +11,7 @@ const NewExpensesPage = () => {
             <div className="bg-red-100 p-5 w-full rounded-t-md text-center">
               <span className="font-medium text-red-400 text-lg sm:text-xl">
                 New Expenses
-              </span>
+              </span> 
             </div>
 
             <div className="flex flex-col gap-3 p-5 pb-6 bg-white rounded-b-md">
