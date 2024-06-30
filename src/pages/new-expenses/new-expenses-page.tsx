@@ -7,7 +7,7 @@ const NewExpensesPage = () => {
     <>
       <CommonHeader breadcrumbs={["Home", "New Expenses"]}>
         <div className="relative flex-1">
-          <div className="shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-md max-w-sm mx-auto mt-20">
+          <div className="shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-md max-w-sm mx-auto my-20">
             <div className="bg-red-100 p-5 w-full rounded-t-md text-center">
               <span className="font-medium text-red-400 text-lg sm:text-xl">
                 New Expenses
